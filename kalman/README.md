@@ -4,4 +4,6 @@
 ![img](./kalman_image.png)
 
 
-$$\hat{x}_{k-1} = A\hat{x}_{k-1}^+ +w$$
+$$
+ \hat{x}_{k-1} = A\hat{x}_{k-1}^+ +w
+ $$
