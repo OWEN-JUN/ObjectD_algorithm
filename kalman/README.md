@@ -5,5 +5,5 @@
 
 
 $$
-\hat{x}_k^- = A\hat{x}<sub>{k-1}</sub>^+ +w
+\hat{x}_k^- = A\hat{x}_k_-1^+ +w
 $$
