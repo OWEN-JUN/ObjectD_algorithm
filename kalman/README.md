@@ -112,6 +112,7 @@ You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
 $$
+<<<<<<< HEAD
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
@@ -149,3 +150,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+=======
+\hat{x}_k^- = A\hat{x}_(k-1)^+ +w
+$$
+>>>>>>> parent of 7bb7933 (main)
