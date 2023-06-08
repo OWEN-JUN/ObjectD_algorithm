@@ -1,21 +1,22 @@
-<<<<<<< HEAD
 
 
 # kalman filter
 
+<p align="center">
 ![img](./kalman_image.png)
+</p>
+<br><br><br>
+**예측**
+$$\hat x_{k}^- = A\hat x_{k-1}^+ +W_k$$
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+<br><br><br>
 
-$$
-\hat{x}_{k-1} , \hat{x}_{k-1}
-$$
+**processing noise**
+$$W_k$$
 
-$${\hat{x}_{k-1}} = {{A}\hat x_{k-1}^+}$$
+$$Q_k = {W_k}{W_k^T}$$
 
-
+$$\hat x_{k} = A\hat x_{k-1}^+ +W$$
 
 
 
