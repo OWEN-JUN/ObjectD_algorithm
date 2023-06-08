@@ -3,8 +3,9 @@
 # kalman filter
 
 <p align="center">
-![img](./kalman_image.png)
+    <img width="500" src="./kalman_image.png">
 </p>
+
 <br><br><br>
 **예측**
 $$\hat x_{k}^- = A\hat x_{k-1}^+ +W_k$$
